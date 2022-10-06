@@ -11,6 +11,8 @@
             "email": "abdulrahman198276301@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "8.1.1"
+    },
 }
 
