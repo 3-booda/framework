@@ -2,7 +2,7 @@
     "name": "abdulrahman5648/framework",
     "autoload": {
         "psr-4": {
-            "Src\\": "framework/src/"
+            "Src\\": "src/"
         }
     },
     "authors": [
