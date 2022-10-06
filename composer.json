@@ -1,7 +1,16 @@
 {
+    "name": "abdulrahman5648/framework",
     "autoload": {
         "psr-4": {
-            "Src\\": "src/"
+            "Abdulrahman\\Framework\\": "src/"
         }
-    }
+    },
+    "authors": [
+        {
+            "name": "abdulrahman5648",
+            "email": "abdulrahman198276301@gmail.com"
+        }
+    ],
+    "require": {}
 }
+
